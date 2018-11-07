@@ -1,0 +1,39 @@
+body {
+	background-image: url("../images/bg.jpg");
+	background-position: center;
+	background-size: cover; 
+	font-family: 'Cantarell', sans-serif;
+}
+
+h1{
+	color: white;
+	font-size: 50px;
+	font-weight: bolder;
+	margin-bottom; 0;
+}
+
+h2{
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+	margin-top; 0;
+}
+.bio {  
+	color: white;
+	font-size: 18px;
+	font-weight: bolder;
+	margin-bottom; 0;
+}
+.me {
+		height: 150px;
+		border-radius: 100%;
+		border-style: solid;
+		border-color: white;
+		margin-top: 40px;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
